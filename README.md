@@ -225,5 +225,5 @@ This project bridges the gap between robotics and biology by integrating soft ac
 
 17. Author
 
-Wilson Phiri
-Computer Science Student | Robotics & AI Enthusiast
+Wilson
+Computer Scientist, Robotics & AI Enthusiast
